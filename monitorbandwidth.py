@@ -1,6 +1,3 @@
-# Prints sent and received bytes and packets (updates every second)
-# Once script is interrupted it prints 
-
 import sys
 import time
 import psutil
